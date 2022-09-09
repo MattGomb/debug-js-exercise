@@ -2,74 +2,72 @@
 
 # Project Name
 
-> Description the project.
+> My first complex project in the Microverse program. 
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML and CSS
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://livedemo.com)
+- Check out the demo page here:
 
+[Live demo](https://mattgomb.github.io/Portfolio-project/)
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+To get a local copy up and running follow these simple example steps:
 
+1. On the top of the page, to the right click on the green 'code' button.
+2. a) copy the https-link and clone the repo in your commandline
+2. b) click on 'Open with GitHub Desktop' if you have GitHub Desktop installed
+3. Code away!
 
-To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-### Setup
-
-### Install
+- Basic understanding of HTML and CSS
 
 ### Usage
 
-### Run tests
-
-### Deployment
+- For practice and fun
 
 
 
 ## Authors
 
-👤 **Author1**
+👤 **Mátyás Gombps**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@MattGomb](https://github.com/MattGomb)
+- Twitter: [@MtysGombos1](https://twitter.com/MtysGombos1)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/gombos-mátyás-28139771/)
 
-👤 **Author2**
+👤 **Justo Rago**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@asdt560](https://github.com/asdt560)
+- Twitter: [@JustoRago](https://twitter.com/JustoRago)
+- LinkedIn: [LinkedIn](www.linkedin.com/in/justo-rago-0714b5208)
 
-## 🤝 Contributing
+👤 **Kelvin Benjamin**
 
-Contributions, issues, and feature requests are welcome!
+- GitHub: [@Kevo-hacker](https://github.com/Kevo-hacker)
+- Twitter: [@kevoyout144](https://twitter.com/kevoyout144)
+- LinkedIn: [LinkedIn](www.linkedin.com/in/kelvin-ben-323043173/)
 
-Feel free to check the [issues page](../../issues/).
+👤 **Shaker Abudrais**
+
+- GitHub: [@shakerAbuDrais](https://github.com/shakerAbuDrais)
+- Twitter: [@ShakerAbady](https://twitter.com/ShakerAbady)
+- LinkedIn: [LinkedIn](www.linkedin.com/in/shaker-abady-85abb714a)
+
 
 ## Show your support
 
 Give a ⭐️ if you like this project!
 
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
 
 ## 📝 License
 
 This project is [MIT](./LICENSE) licensed.
 
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
