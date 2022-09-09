@@ -14,9 +14,9 @@ function openMenu() {
 
 const submit = document.getElementById('contact-button');
 submit.addEventListener('click', (e) => {
-  const email = document.getElementById('email').value;
+  const email = document.getElementById('text').value;
   const emailLower = email.toLowerCase();
-  const text = document.getElementById('text');
+  const text = document.getElementById('email');
   if (email !== emailLower) {
     e.preventDefault();
     text.innerText = '*please enter email without capital letters!';
@@ -92,7 +92,7 @@ document.addEventListener('DOMContentLoaded', () => {
       div2.appendChild(closeSign);
       closeSign.textContent = 'X';
       closeSign.addEventListener('click', () => {
-        document.getElementsByClassName('popdiv1')[counter].style.display = 'none';
+        document.getElementById('popdiv1')[counter].style.display = 'none';
         const blur = document.getElementById('blur1');
         blur.classList.toggle('active');
       });
